@@ -10,7 +10,7 @@ export default function CreateUser() {
     const navigate=useNavigate()
    // const clear_token=localStorage.clear('token')
 
-    const URL=`https://dreamleadusers.onrender.com`//users
+    const URL=`https://dreamleadfrontend.onrender.com`//users
     function HandleOnsubmit(e){
     
       e.preventDefault()
