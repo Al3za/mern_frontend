@@ -7,7 +7,7 @@ export default function AllUsers() {
     // const[password,SetPassword]=useState(null)
     // const[wrongLogin,setwrongLogin]=useState('')
     // const navigate=useNavigate()
-    const URL_LOGIN='https://mern-backend-78xw.onrender.com'
+    const URL_LOGIN='https://mern-backend-78xw.onrender.com/users'
    // const clear_token=localStorage.clear('token')
 
    // function handleOnSubmit(e){
