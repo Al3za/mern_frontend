@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This project shows how to connect the front-end of a MERN-APP to later 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
